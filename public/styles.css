@@ -1,0 +1,9 @@
+.main{
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.image{
+    position: relative;
+    height: 100%;
+}
